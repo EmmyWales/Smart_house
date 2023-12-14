@@ -140,7 +140,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     },
                     activeTrackColor: Appcolor.blue,
                     activeColor: Appcolor.grey,
-                  )
+                  ),
                 ],
               ),
               const SizedBox(
